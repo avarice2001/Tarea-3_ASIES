@@ -1,5 +1,7 @@
 # ASIES: Tarea 3
 
+## Por Aldo Mendoza Cotera (aldo.mendoza@pucp.edu.pe)
+
 Esta es la Tarea 3 para el curso ASIES con el profesor José Magallanes.
 
 En esta Tarea 3 se hace uso de las editoriales que van del 12 de abril al 20 de julio.
